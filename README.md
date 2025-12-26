@@ -1,16 +1,15 @@
-## Hi there 👋
+[![Mandar Apte](https://www.mandarapte.com/public-assets/github_profile_header.png)](https://www.mandarapte.com/about)
 
 <!--
-**mandarapte/mandarapte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mandarpate/mandarpate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Small effort to help, support and contribute to developer community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me on socials
+- [Follow me on LinkedIn](https://www.linkedin.com/in/mandarapte/)
+- [Follow me on YouTube](https://www.youtube.com/@mandarapte)
+
+## My work
+- Personal Blog About technology, social and political life in India i.e. Bharat [Personal Website](https://www.mandarapte.com) ***(1K+ Monthly Views)***
+- Mudrakshar Media Interactive Private Limited [Company Website](https://mudrakshar.com/learn) ***(Sold 7K+ Apps on Apple App Store)***
+- YouTube Creator [YouTube Channel](https://www.youtube.com/@mandarapte)
