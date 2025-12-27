@@ -8,7 +8,7 @@
 - [YouTube Channel](https://www.youtube.com/@mandarapte)
 
 # Mudrakshar Media Interactive Private Limited
-### (Sold 12.K+ Paid Apps on Apple App Store)
+### (Sold 12.8k+ Paid Apps on Apple App Store)
 - [Company Website](https://mudrakshar.com/learn)
 - [Apple App Store Profile](https://apps.apple.com/us/developer/mudrakshar-media-interactive-private-limited/id607983898)
 - [Google Play Store Profile](https://play.google.com/store/apps/dev?id=7679016492086444857)
