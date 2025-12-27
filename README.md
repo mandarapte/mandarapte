@@ -13,6 +13,6 @@
 - [Apple App Store Profile](https://apps.apple.com/us/developer/mudrakshar-media-interactive-private-limited/id607983898)
 - [Google Play Store Profile](https://play.google.com/store/apps/dev?id=7679016492086444857)
 
-# Follow Me on Social Media
-- [Follow me on LinkedIn](https://www.linkedin.com/in/mandarapte/)
-- [Follow me on YouTube](https://www.youtube.com/@mandarapte)
+# Follow Me On Social Media
+- [LinkedIn](https://www.linkedin.com/in/mandarapte/)
+- [YouTube](https://www.youtube.com/@mandarapte)
