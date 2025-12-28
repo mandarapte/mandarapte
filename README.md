@@ -9,7 +9,7 @@
 - [Google Play Store Profile](https://play.google.com/store/apps/dev?id=7679016492086444857)
 
 # Articles, Creatives and Social
-### (1K+ Monthly Views on personal website)
+### (1k+ Monthly Views on personal website)
 - [Personal Website](https://www.mandarapte.com)
 - [YouTube](https://www.youtube.com/@mandarapte)
 - [LinkedIn](https://www.linkedin.com/in/mandarapte/)
